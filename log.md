@@ -3,20 +3,20 @@
 ### Day 0: May 27, 2024
 
 
-**Today's Progress**: learned git reset/revert,read some mind tricks addressing inner fears of coding.
+**Today's Progress**: Learned git reset/revert,read some mind tricks addressing inner fears of coding.
 
-**Thoughts:** I still cannot use git commands proficiently, and these commands are easily confused.But today I’m so lucky to read the article named Learning to Code: When It Gets Dark written by Alexander Kallaway which inspires me in the path of coding.
+**Thoughts:** I still cannot use git commands proficiently, and these commands are easily confused.But today I’m so lucky to read the article named Learning to Code: When It Gets Dark written by Alexander Kallaway which inspires me on the path of coding.
 
 **Link to work:** [Learn Git Branching](https://learngitbranching.js.org/)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2:May 28, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**:Started study of Responsive Web Design, learned HTML by building a catphotoapp and completed 7-step study.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I found it interesting to make a website coz u will feel u r creating something and connected to web just through some code. That’s amazing. But just following courses on freecodecamp is a bit superficial. I still need to find some materials to learn more deeply and systematically. 
+
+**Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
 
 
 ### Day 1: June 27, Monday
