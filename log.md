@@ -19,12 +19,11 @@
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
 
 
-### Day 1: June 27, Monday
+### Day 3: May 29, 2024
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I just learned git cherry-pick and I had a sore throat today.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** These commands are easy to operate but I can’t understand how the process works.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
+
