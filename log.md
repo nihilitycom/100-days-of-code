@@ -21,9 +21,20 @@
 
 ### Day 3: May 29, 2024
 
+
 **Today's Progress**: I just learned git cherry-pick and I had a sore throat today.
 
 **Thoughts** These commands are easy to operate but I can’t understand how the process works.
 
 **Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
 
+### Day 4: May 30, 2024
+
+
+**Today’s Progress**: Learned git rebase -i and completed 4-step of learned HTML by building a catphotoapp on fcc.
+
+**Thoughts**: Today I had some fear of what I'm going to learn in the future but I asked my homie studying Python for some advice and ChatGPT, my worry disappeared at once. 
+
+**Link(s) to work**:
+1.[Learn Git Branching](https://learngitbranching.js.org/)
+2.[Free Code Camp](http://www.freecodecamo.org)
