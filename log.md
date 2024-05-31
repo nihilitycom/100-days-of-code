@@ -38,3 +38,13 @@
 **Link(s) to work**:
 1.[Learn Git Branching](https://learngitbranching.js.org/)
 2.[Free Code Camp](http://www.freecodecamo.org)
+
+### Day 5: May 31, 2024
+
+
+**Today’s progress**: aaaaaa learned some tips for committing code modification records.
+
+**Thoughts**: saaaaaad I didn't solve the problem. I want to sleep at once.
+
+**Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
+
