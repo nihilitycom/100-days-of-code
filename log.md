@@ -48,3 +48,11 @@
 
 **Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
 
+### Day 6: June 1, 2024
+
+
+**Today's progress**: Completed one step of learning HTML by building a catphotoapp on fcc.
+
+**Thoughts**: Maybe I should speed up my studies.
+
+**Link(s) to work**:[Free Code Camp](http://www.freecodecamo.org)
