@@ -55,4 +55,13 @@
 
 **Thoughts**: Maybe I should speed up my studies.
 
-**Link(s) to work**:[Free Code Camp](http://www.freecodecamo.org)
+**Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
+
+### Day 7: June 2, 2024
+
+
+**Today's progress**: Completed 19-step of learning HTML by building a catphotoapp on fcc and hold on.
+
+**Thoughts**: I think I could have completed these exercises in several hours coz the structure of this course is less cohesive compared to others. And I want to start learning web design on bilibili or YTB.
+
+**Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
