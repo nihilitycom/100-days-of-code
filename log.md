@@ -65,3 +65,12 @@
 **Thoughts**: I think I could have completed these exercises in several hours coz the structure of this course is less cohesive compared to others. And I want to start learning web design on bilibili or YTB.
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
+
+### Day 8: June 3, 2024
+
+
+**Today's progress**: Completed 16-step of learning HTML by building a catphotoapp on fcc.
+
+**Thoughts**: I think I have forgotten what I learned before and how they work.
+
+**Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
