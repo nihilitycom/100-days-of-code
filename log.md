@@ -74,3 +74,12 @@
 **Thoughts**: I think I have forgotten what I learned before and how they work.
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
+
+### Day 9: June 4, 2024
+
+
+**Today's progress**: Completed 6-step of learning HTML by building a catphotoapp on fcc.
+
+**Thoughts**: I hadn't reviewed what I had learned in time, and I had forgotten about it.
+
+**Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
