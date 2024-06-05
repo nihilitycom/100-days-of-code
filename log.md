@@ -83,3 +83,12 @@
 **Thoughts**: I hadn't reviewed what I had learned in time, and I had forgotten about it.
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
+
+### Day 10: June 5, 2024
+
+
+**Today's progress**: Completed 5-step of learning HTML by building a catphotoapp on fcc.
+
+**Thoughts**: Learning is a step-by-step process and I gradually understand the steps I had learned.
+
+**Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
