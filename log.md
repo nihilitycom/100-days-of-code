@@ -100,4 +100,4 @@
 
 **Thoughts**: I find Markdown is a good tool to take notes and I'm wondering if myopia is suitable for programming coz my eyes hurt.
 
-**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV1Sy4y1C7ha/?spm_id_from=333.999.0.0)
+**Link(s) to work**: [bilibili]([https://www.bilibili.com/video/BV1Sy4y1C7ha/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0))
