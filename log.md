@@ -12,7 +12,7 @@
 ### Day 2:May 28, 2024
 
 
-**Today's Progress**:Started study of Responsive Web Design, learned HTML by building a catphotoapp and completed 7-step study.
+**Today's Progress**:Started study of Responsive Web Design, learned HTML by building a catphotoapp and completed 7 steps of study.
 
 **Thoughts**: I found it interesting to make a website coz u will feel u r creating something and connected to web just through some code. That’s amazing. But just following courses on freecodecamp is a bit superficial. I still need to find some materials to learn more deeply and systematically. 
 
@@ -31,9 +31,9 @@
 ### Day 4: May 30, 2024
 
 
-**Today’s Progress**: Learned git rebase -i and completed 4-step of learned HTML by building a catphotoapp on fcc.
+**Today’s Progress**: Learned git rebase -i and completed 4 steps of learning HTML by building a catphotoapp on fcc.
 
-**Thoughts**: Today I had some fear of what I'm going to learn in the future but I asked my homie studying Python for some advice and ChatGPT, my worry disappeared at once. 
+**Thoughts**: Today I had some fear of what I'm going to learn in the future but I asked my homie studying Python for some advice and ChatGPT, maybe just take it slow. 
 
 **Link(s) to work**:
 1.[Learn Git Branching](https://learngitbranching.js.org/)
@@ -60,7 +60,7 @@
 ### Day 7: June 2, 2024
 
 
-**Today's progress**: Completed 19-step of learning HTML by building a catphotoapp on fcc and hold on.
+**Today's progress**: Completed 19 steps of learning HTML by building a catphotoapp on fcc and hold on.
 
 **Thoughts**: I think I could have completed these exercises in several hours coz the structure of this course is less cohesive compared to others. And I want to start learning web design on bilibili or YTB.
 
@@ -69,7 +69,7 @@
 ### Day 8: June 3, 2024
 
 
-**Today's progress**: Completed 16-step of learning HTML by building a catphotoapp on fcc.
+**Today's progress**: Completed 16 steps of learning HTML by building a catphotoapp on fcc.
 
 **Thoughts**: I think I have forgotten what I learned before and how they work.
 
@@ -78,7 +78,7 @@
 ### Day 9: June 4, 2024
 
 
-**Today's progress**: Completed 6-step of learning HTML by building a catphotoapp on fcc.
+**Today's progress**: Completed 6 steps of learning HTML by building a catphotoapp on fcc.
 
 **Thoughts**: I hadn't reviewed what I had learned in time, and I had forgotten about it.
 
@@ -87,7 +87,7 @@
 ### Day 10: June 5, 2024
 
 
-**Today's progress**: Completed 5-step of learning HTML by building a catphotoapp on fcc.
+**Today's progress**: Completed 5 steps of learning HTML by building a catphotoapp on fcc.
 
 **Thoughts**: Learning is a step-by-step process and I gradually understand the steps I had learned.
 
