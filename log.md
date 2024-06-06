@@ -92,3 +92,12 @@
 **Thoughts**: Learning is a step-by-step process and I gradually understand the steps I had learned.
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
+
+### Day 11: June 6, 2024
+
+
+**Today's progress**: Completed learning HTML by building a catphotoapp on fcc and started to study Pink's front-end introductory courses on bilibili.
+
+**Thoughts**: I find Markdown is a good tool to take notes and I'm wondering if myopia is suitable for programming coz my eyes hurt.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV1Sy4y1C7ha/?spm_id_from=333.999.0.0)
