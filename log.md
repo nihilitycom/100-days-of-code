@@ -101,3 +101,12 @@
 **Thoughts**: I find Markdown is a good tool to take notes and I'm wondering if myopia is suitable for programming coz my eyes hurt.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 12: June 7, 2024
+
+
+**Today's progress**: Learned git tag.
+
+**Thoughts**: homies, who understand? I feel bad about my procrastination.
+
+**Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
