@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+ # 100 Days Of Code - Log
 
 ### Day 0: May 27, 2024
 
@@ -110,3 +110,12 @@
 **Thoughts**: homies, who understand? I feel bad about my procrastination.
 
 **Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
+
+### Day 13, June 8, 2024
+
+
+**Today's progress**: Learned Pink's front-end introductory courses on bilibili and understanded some basic knowledge of front-end, including the concept of web page, web standards.
+
+**Thoughts**: Mr. Pink's explanation is very detailed and easy to understand. Just go for it.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
