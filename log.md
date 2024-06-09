@@ -119,3 +119,12 @@
 **Thoughts**: Mr. Pink's explanation is very detailed and easy to understand. Just go for it.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 14, June 9, 2024
+
+
+**Today's progress**: Learned some syntax specifications of HTML tags.
+
+**Thoughts**: Today I learned too little coz I spent a lot of time on music and short videos.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
