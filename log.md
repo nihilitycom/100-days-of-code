@@ -128,3 +128,12 @@
 **Thoughts**: Today I learned too little coz I spent a lot of time on music and short videos.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 15, June 10, 2024
+
+
+**Today's progress**: Learned some basic html tags and formatting tags, how to use VSCode more easily.
+
+**Thoughts**: I think those keyborad shortcuts of VSCode are a bit hard to remember, maybe I should use them more in practice.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
