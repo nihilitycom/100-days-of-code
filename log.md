@@ -137,3 +137,12 @@
 **Thoughts**: I think those keyborad shortcuts of VSCode are a bit hard to remember, maybe I should use them more in practice.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 16， June 11， 2024
+
+
+**Today's progress**: Learned image tag and some attributes.
+
+**Thoughts**: It's less productive for me to study at home.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
