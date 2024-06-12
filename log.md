@@ -9,7 +9,7 @@
 
 **Link to work:** [Learn Git Branching](https://learngitbranching.js.org/)
 
-### Day 2:May 28, 2024
+### Day 1:May 28, 2024
 
 
 **Today's Progress**:Started study of Responsive Web Design, learned HTML by building a catphotoapp and completed 7 steps of study.
@@ -19,7 +19,7 @@
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
 
 
-### Day 3: May 29, 2024
+### Day 2: May 29, 2024
 
 
 **Today's Progress**: I just learned git cherry-pick and I had a sore throat today.
@@ -28,7 +28,7 @@
 
 **Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
 
-### Day 4: May 30, 2024
+### Day 3: May 30, 2024
 
 
 **Today’s Progress**: Learned git rebase -i and completed 4 steps of learning HTML by building a catphotoapp on fcc.
@@ -39,7 +39,7 @@
 1.[Learn Git Branching](https://learngitbranching.js.org/)
 2.[Free Code Camp](http://www.freecodecamo.org)
 
-### Day 5: May 31, 2024
+### Day 4: May 31, 2024
 
 
 **Today’s progress**: aaaaaa learned some tips for committing code modification records.
@@ -48,7 +48,7 @@
 
 **Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
 
-### Day 6: June 1, 2024
+### Day 5: June 1, 2024
 
 
 **Today's progress**: Completed one step of learning HTML by building a catphotoapp on fcc.
@@ -57,7 +57,7 @@
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
 
-### Day 7: June 2, 2024
+### Day 6: June 2, 2024
 
 
 **Today's progress**: Completed 19 steps of learning HTML by building a catphotoapp on fcc and hold on.
@@ -66,7 +66,7 @@
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
 
-### Day 8: June 3, 2024
+### Day 7: June 3, 2024
 
 
 **Today's progress**: Completed 16 steps of learning HTML by building a catphotoapp on fcc.
@@ -75,7 +75,7 @@
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
 
-### Day 9: June 4, 2024
+### Day 8: June 4, 2024
 
 
 **Today's progress**: Completed 6 steps of learning HTML by building a catphotoapp on fcc.
@@ -84,7 +84,7 @@
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
 
-### Day 10: June 5, 2024
+### Day 9: June 5, 2024
 
 
 **Today's progress**: Completed 5 steps of learning HTML by building a catphotoapp on fcc.
@@ -93,7 +93,7 @@
 
 **Link(s) to work**: [Free Code Camp](http://www.freecodecamo.org)
 
-### Day 11: June 6, 2024
+### Day 10: June 6, 2024
 
 
 **Today's progress**: Completed learning HTML by building a catphotoapp on fcc and started to study Pink's front-end introductory courses on bilibili.
@@ -102,7 +102,7 @@
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
 
-### Day 12: June 7, 2024
+### Day 11: June 7, 2024
 
 
 **Today's progress**: Learned git tag.
@@ -111,7 +111,7 @@
 
 **Link(s) to work**: [Learn Git Branching](https://learngitbranching.js.org/)
 
-### Day 13, June 8, 2024
+### Day 12, June 8, 2024
 
 
 **Today's progress**: Learned Pink's front-end introductory courses on bilibili and understanded some basic knowledge of front-end, including the concept of web page, web standards.
@@ -120,7 +120,7 @@
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
 
-### Day 14, June 9, 2024
+### Day 13, June 9, 2024
 
 
 **Today's progress**: Learned some syntax specifications of HTML tags.
@@ -129,7 +129,7 @@
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
 
-### Day 15, June 10, 2024
+### Day 14, June 10, 2024
 
 
 **Today's progress**: Learned some basic html tags and formatting tags, how to use VSCode more easily.
@@ -138,11 +138,20 @@
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
 
-### Day 16， June 11， 2024
+### Day 15， June 11， 2024
 
 
 **Today's progress**: Learned image tag and some attributes.
 
 **Thoughts**: It's less productive for me to study at home.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 16, June 12, 2024
+
+
+**Today's progress**: Learned relative, absolute path and anchor tags.
+
+**Thoughts**: I feel like I spend a lot of time taking notes every day.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
