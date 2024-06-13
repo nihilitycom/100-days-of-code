@@ -155,3 +155,12 @@
 **Thoughts**: I feel like I spend a lot of time taking notes every day.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 17, June 13, 2024
+
+
+**Today's progress**: Learned commments and special characters, reviewed what I've learned in the past few days through a case making a webpage about Christmas, learned basic syntax and attributes of table tags and made a table.
+
+**Thoughts**： Why not build a table through excel？
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
