@@ -164,3 +164,12 @@
 **Thoughts**： Why not build a table through excel？
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 18， June 16, 2024
+
+
+**Today's progress**: Learned table structure tags and how to merge cells.
+
+**Thoughts**: I didn't study two days ago coz I attended my colleague's wedding. And I realized I must speed up my learning process.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
