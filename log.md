@@ -173,3 +173,12 @@
 **Thoughts**: I didn't study two days ago coz I attended my colleague's wedding. And I realized I must speed up my learning process.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 19, June 17, 2024
+
+
+**Today's progress**: Learned unordered list and ordered list.
+
+**Thoughts**: I got a cold yesterday.wwwwww Sometimes I would wonder if I am doing the right thing. But I'd rather work abroad than commit suicide.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
