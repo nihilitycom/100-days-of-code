@@ -179,6 +179,15 @@
 
 **Today's progress**: Learned unordered list and ordered list.
 
-**Thoughts**: I got a cold yesterday.wwwwww Sometimes I would wonder if I am doing the right thing. But I'd rather work abroad than commit suicide.
+**Thoughts**: I got a cold yesterday. Sometimes I would wonder if I am doing the right thing. But I'd rather work abroad than commit suicide.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 20， June 18，2024
+
+
+**Today's progress**: Learned definition list and form field and form control of form tag.
+
+**Thoughts**: There are so many input types I need to remember and I think the best way to absorb knowledge is use it as much as possible in every practice.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
