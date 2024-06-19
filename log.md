@@ -191,3 +191,12 @@
 **Thoughts**: There are so many input types I need to remember and I think the best way to absorb knowledge is use it as much as possible in every practice.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 21, June 19, 2024
+
+
+**Today's progress**: Learned form control of form tag, including input, select, textarea tags and their attributes.
+
+**Thoughts**: Looking back on what I've learned before, I feel that it is way easy to forget if I don't review them in time.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
