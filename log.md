@@ -200,3 +200,14 @@
 **Thoughts**: Looking back on what I've learned before, I feel that it is way easy to forget if I don't review them in time.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 22, June 20, 2024
+
+
+**Today'progress**: Completed all courses of html and did a quiz about html on w3school.
+
+**Thoughts**： Finally, I've finished learning HTML, but I feel like I'll forget it soon if I don't use it.
+
+**Link(s) to work**: 
+1.[bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+2.https://www.w3school.com.cn/
