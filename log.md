@@ -179,7 +179,7 @@
 
 **Today's progress**: Learned unordered list and ordered list.
 
-**Thoughts**: I got a cold yesterday. Sometimes I would wonder if I am doing the right thing. But I'd rather work abroad than commit suicide.
+**Thoughts**: I got a cold yesterday. Sometimes I would wonder if I am doing the right thing. 
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
 
@@ -211,3 +211,15 @@
 **Link(s) to work**: 
 1.[bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
 2.https://www.w3school.com.cn/
+
+### Day 23, July 1, 2024
+
+
+**Today's progress**: Reviewed knowledge of html that I've learned.
+
+**Thoughts**: Homies, who understand? I haven't studied for a long time and I've almost forgotten what I've learned before.
+
+**Link(s) to work**: My notes from the html course of Pink.
+
+
+
