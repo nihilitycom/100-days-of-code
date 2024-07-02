@@ -221,5 +221,12 @@
 
 **Link(s) to work**: My notes from the html course of Pink.
 
+### Day 24, July 2, 2024
 
+
+**Today's progress**: Learned some CSS basics.
+
+**Thoughts**: It feels like there's more knowledge about css than html that I need to learn. And the way I studied while taking notes made my learning progress very slow.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
 
