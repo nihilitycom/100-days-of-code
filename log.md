@@ -238,3 +238,11 @@
 **Thoughts**: I haven't studied for 12 days and I used Ruowen Huang's way of thinking to keep myself motivated again.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 26, July 16, 2024
+
+**Today's progress**: Learned id selector and wildcard selector.
+
+**Thoughts**: I realized that why people call front-end developer as art workers. And I felt like I need to find more cases to practice.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
