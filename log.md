@@ -246,3 +246,11 @@
 **Thoughts**: I realized that why people call front-end developer as art workers. And I felt like I need to find more cases to practice.
 
 **Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
+
+### Day 27, July 17, 2024
+
+**Today's progress**: Learned font attributes of CSS, including font-family, font-size, font-weight, font-style, font.
+
+**Thoughts**: Why the fuck does CSS have so much to learn？I don't know when I will finish learning CSS.
+
+**Link(s) to work**: [bilibili](https://www.bilibili.com/video/BV14J4114768/?spm_id_from=333.999.0.0)
